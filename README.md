@@ -13,13 +13,13 @@ Luego se abrirá otra ventana para seleccionar los puntos del área de la derech
 
 El código es interactivo, se deberán precionar las teclas s, h, v o q para ejecutar alguna de las características: 
 
-	imagen en el centro del campo
+	s - imagen en el centro del campo
 	
-	mapa de calor
+	h - mapa de calor
 	
-	velocidad de un jugador al azar
+	v - velocidad de un jugador al azar
 	
-	salir del programa
+	q - salir del programa
 
 El video se guardara en un archivo .avi llamado output.avi.
 
@@ -27,25 +27,25 @@ Se recomienda usar tensorflow con GPU pues el tiempo del detector puede ser muy 
 
 Librerías a usar
 
-tensorflow
+	tensorflow
 
-numpy
+	numpy
 
-argparse
+	argparse
 
-imutils
+	imutils
 
-random
+	random
 
-scipy
+	scipy
 
-time
+	time
 
-math
+	math
 
-cv2
+	cv2
 
-sys
+	sys
 
 Si omití información escribanme a
 	emmanuel.antonio@cimat.mx
